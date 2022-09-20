@@ -1,0 +1,13 @@
+body{
+    background: #eeee;
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+    text-shadow: 6px;
+    padding: 5px;
+    margin: 15px;
+}
